@@ -1,6 +1,6 @@
 #!/bin/bash
 # Automated testing script for Azure AI Foundry Java Samples
-# Usage: ./testing.sh [SampleName]
+# Usage: ./testing.sh [Optional SampleName]
 
 set -e  # Exit on error
 

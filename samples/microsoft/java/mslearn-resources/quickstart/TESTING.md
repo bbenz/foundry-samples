@@ -87,7 +87,7 @@ To run a specific sample, specify the sample class name:
 
 #### Windows
 ```cmd
-testing.bat ChatCompletionSample
+testing.bat OptionalChatCompletionSample
 ```
 
 #### Linux/macOS

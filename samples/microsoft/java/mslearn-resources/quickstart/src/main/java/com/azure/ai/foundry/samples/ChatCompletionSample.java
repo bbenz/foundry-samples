@@ -28,6 +28,7 @@ import com.azure.identity.DefaultAzureCredentialBuilder;
  * - Accessing response content through strongly-typed objects
  * - Implementing proper error handling for service requests
  * - Choosing between DefaultAzureCredential and AzureKeyCredential
+ * 
  */
 
 public class ChatCompletionSample {

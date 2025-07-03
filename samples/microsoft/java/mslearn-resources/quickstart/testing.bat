@@ -1,6 +1,6 @@
 @echo off
 REM Automated testing script for Azure AI Foundry Java Samples
-REM Usage: testing.bat [SampleName]
+REM Usage: testing.bat [Optional SampleName]
 REM This script tests samples that use:
 REM  - Azure AI Agents Persistent SDK (com.azure:azure-ai-agents-persistent:1.0.0-beta.2)
 REM  - Azure AI Projects SDK (com.azure:azure-ai-projects:1.0.0-beta.2)
